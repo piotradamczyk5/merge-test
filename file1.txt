@@ -1,0 +1,6 @@
+Sample
+content
+of 
+file 
+1
+FIXED IN RELEASE BRANCH
