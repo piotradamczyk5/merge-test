@@ -1,1 +1,4 @@
 Content of file 2
+EDITED IN DEVELOP
+2AGIAN EDITED IN DEVELOP
+quick fix on release2
